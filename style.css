@@ -1,0 +1,29 @@
+nav {
+  background-color: skyblue;
+}
+
+.sign {
+  background-color: skyblue;
+}
+
+.about {
+  background-color: darksalmon;
+}
+
+.footer {
+  background-color: darksalmon;
+}
+
+.price {
+  color: dodgerblue;
+}
+
+.sizes {
+  color: darkgray;
+}
+
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
